@@ -21,7 +21,7 @@
 	.st14{fill:#EE8E9E;}
 	.st15{opacity:0.1;}
 	.st16{fill:#FF2A42;}
-	.st17{font-family:'MicrosoftSansSerif';}
+	.st17{font-family:'CascadiaCode';}
 	.st18{font-size:60px;}
 </style>
 <ellipse class="st0" cx="789.9" cy="749.5" rx="270" ry="37.7"/>
@@ -171,7 +171,7 @@
 	C1065.6,670.3,1056.5,674.7,1048.2,671.7L1048.2,671.7z"/>
 <path class="st2" d="M999.4,727.2c-8.6-1.5-31-21.5-31-21.5s27.8-11.3,36.4-9.8c8.6,1.5,14.4,9.7,12.9,18.3
 	C1016.3,722.9,1008.1,728.7,999.4,727.2L999.4,727.2L999.4,727.2z"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="852.6966" y1="1125.964" x2="852.6966" y2="628.3345" gradientTransform="matrix(1 0 0 1 -29.72 -346.36)">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="852.6966" y1="-335.964" x2="852.6966" y2="161.6655" gradientTransform="matrix(1 0 0 -1 -29.72 443.64)">
 	<stop  offset="0" style="stop-color:#808080;stop-opacity:0.25"/>
 	<stop  offset="0.54" style="stop-color:#808080;stop-opacity:0.12"/>
 	<stop  offset="1" style="stop-color:#808080;stop-opacity:0.1"/>
@@ -314,7 +314,7 @@
 </g>
 <path class="st6" d="M896.2,523.9c-4.4,5.9-9.3,11.3-13.2,17.6s-6.6,13.5-5.8,20.8c4-4.1,5.8-9.8,8.3-14.9
 	c4.3-8.7,10.6-16.1,16-24.1c1-1.5,7.6-10.3,4.3-10.8C903.1,512.2,897.7,521.9,896.2,523.9z"/>
-<text transform="matrix(1 0 0 1 297.525 436.6924)" class="st16 st17 st18">S</text>
-<text transform="matrix(1 0 0 1 294.9413 500.595)" class="st16 st17 st18">C</text>
-<text transform="matrix(1 0 0 1 296.4739 566.775)" class="st16 st17 st18">R</text>
+<text transform="matrix(1 0 0 1 299.525 436.6924)" class="st16 st17 st18">S</text>
+<text transform="matrix(1 0 0 1 296.9413 500.595)" class="st16 st17 st18">C</text>
+<text transform="matrix(1 0 0 1 298.4739 566.775)" class="st16 st17 st18">R</text>
 </svg>

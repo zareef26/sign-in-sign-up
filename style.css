@@ -33,7 +33,7 @@ input {
 	transform: translate(-50%, -50%);
 	left: 75%;
 	width: 50%;
-	transition: 1s 0.7s ease-in-out;
+	transition: 1.3s 0.5s ease-in-out;
 	display: grid;
 	grid-template-columns: 1fr;
 	z-index: 5;
@@ -242,6 +242,16 @@ form.sign-in-form {
 
 .container.sign-up-mode .right-panel {
 	pointer-events: all;
+}
+
+.reset-pass {
+	color: #eb4444;
+	text-decoration: solid;
+	transition: 0.2s;
+}
+
+.reset-pass:hover {
+	color: #0084ff;
 }
 
 @media (max-width: 870px) {
